@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "filename": "LED Indicator",
+        "version": 1
+    },
+    "boards": [],
+    "cvpcb": {},
+    "libraries": {},
+    "meta_version": 1,
+    "schematic": {},
+    "text_variables": {}
+}
